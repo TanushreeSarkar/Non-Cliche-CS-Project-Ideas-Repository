@@ -12,7 +12,7 @@ Welcome to the **Non-Cliché CS Project Ideas Repository**! 🎉 Tired of seeing
 | 📊 Data Science | [Projects](data_science.markdown) |
 | 🤖 Artificial Intelligence | [Projects](artificial_intelligence.markdown) |
 | 🔒 Cybersecurity | [Projects](cybersecurity.markdownd) |
-| 🌐 Web Development | [Projects](web_development.markdownd) |
+| 🌐 Web Development | [Projects](web_development.markdown) |
 | 📱 Mobile App Development | [Projects](mobile_app_development.markdown) |
 | ☁️ Cloud Computing | [Projects](cloud_computing.markdown) |
 | ⚙️ DevOps | [Projects](devops.markdown) |
