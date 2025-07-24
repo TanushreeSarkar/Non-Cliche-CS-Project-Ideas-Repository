@@ -1,4 +1,4 @@
-# 🚀 Non-Cliché CS Project Ideas Repository 🌟
+# 🚀 Not so-Cliché CS Project Ideas Repository 2025🌟
 
 ![GitHub stars](https://img.shields.io/github/stars/TanushreeSarkar/Non-Cliche-CS-Project-Ideas-Repository?style=social) ![GitHub forks](https://img.shields.io/github/forks/TanushreeSarkar/Non-Cliche-CS-Project-Ideas-Repository?style=social) ![License](https://img.shields.io/github/license/TanushreeSarkar/Non-Cliche-CS-Project-Ideas-Repository?color=blue)
 
