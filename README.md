@@ -33,7 +33,8 @@ Welcome to the **Non-Cliché CS Project Ideas Repository**! 🎉 Tired of seeing
 
 ## 🤝 Contributing
 
-Got a unique project idea? Fork this repo, add it to the relevant branch file, and submit a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+Got a unique project idea? Fork this repo, add it to the relevant branch file, and submit a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md) for detail
+Built by Tanushree Sarkar
 
 ## 📜 License
 
